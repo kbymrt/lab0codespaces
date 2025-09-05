@@ -1,1 +1,1 @@
-print("Hello — I'm <kobby appiah> (Codespaces edit)")
+print("Hello people — I'm <kobby appiah> (Codespaces edit)")
